@@ -1,0 +1,15 @@
+{
+  "ModId": "sonicheroes.utils.nosubtitles",
+  "ModName": "No Subtitles",
+  "ModAuthor": "Sewer56",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Stops the game from rendering subtitles.",
+  "ModDll": "SonicHeroes.Utils.NoSubtitles.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "SupportedAppId": [ "tsonic_win.exe" ]
+}
